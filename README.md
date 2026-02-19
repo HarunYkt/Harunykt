@@ -40,8 +40,8 @@ Kırklareli Üniversitesinde Yazılım mühendisliği okuyorum. Temel dilim **Ja
 > Üniversite kampüslerine yönelik akıllı kahve sipariş ve yönetim ekosistemi
 
 ```
-├── Backend (Go + PostgreSQL)     → Ben yazıyorum
-├── IoT Modül (ESP32)             → Ben yönetiyorum  
+├── Backend (Go + PostgreSQL)     → Ben ve ekip arkadaşlarım yazıyoruz
+├── IoT Modül (ESP32)             → Ekip olarak yönetiyoruz. 
 ├── Mobil Uygulama (Flutter)      → Ekip arkadaşım yazıyor
 └── Özellikler: QR kod, WebSocket, JWT auth, Gamifikasyon
 ```
