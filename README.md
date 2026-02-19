@@ -1,4 +1,4 @@
-## Hi there 👋[README.md](https://github.com/user-attachments/files/25412186/README.md)<div align="center">
+## Hi there 👋
 
 # Harun Yakut
 
