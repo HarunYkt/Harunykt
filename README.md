@@ -4,7 +4,7 @@
 
 **Backend Developer · IoT Entrepreneur · Java & Go**
 
-[![LinkedIn](https://www.linkedin.com/in/harun-yakut-076b63259/)](#)
+[![LinkedIn](https://www.linkedin.com/in/harunykt/)](#)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harunyakut2156@gmail.com)
 
 </div>
